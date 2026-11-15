@@ -1,0 +1,111 @@
+product_id,product_name,brand,category,price,rating,review_count,description,features,popularity
+P001,Samsung Galaxy A-Series 5G 8GB/128GB,Samsung,Mobiles,18999,4.3,5230,"Balanced 5G smartphone with a bright AMOLED display, ideal for gaming and daily use.",5G; AMOLED display; 5000mAh battery; 50MP camera; 8GB RAM,77.3
+P002,Samsung Galaxy M-Series 6GB/128GB,Samsung,Mobiles,13499,4.2,8120,"Big-battery phone built for daily use, video streaming and light gaming.",4G; 6000mAh battery; 90Hz display; 50MP camera; 6GB RAM,80.0
+P003,Samsung Galaxy S-Series Flagship 12GB/256GB,Samsung,Mobiles,69999,4.6,2140,"Premium flagship for photography, heavy gaming and productivity.",5G; 120Hz AMOLED display; 200MP camera; 12GB RAM; wireless charging,72.7
+P004,Motorola Edge 5G 8GB/256GB,Motorola,Mobiles,24999,4.4,3410,"Smooth curved-display phone with clean software, great for gaming and daily use.",5G; 144Hz display; 68W fast charging; 50MP camera; 8GB RAM,74.8
+P005,Motorola G-Series 4G 4GB/64GB,Motorola,Mobiles,9999,4.0,11250,"Budget phone for daily calling, browsing and social media.",4G; 5000mAh battery; 90Hz display; 13MP camera; 4GB RAM,80.9
+P006,Motorola G-Series 5G 6GB/128GB,Motorola,Mobiles,14999,4.2,6720,Affordable 5G phone with a fast display for daily use and casual gaming.,5G; 5000mAh battery; 120Hz display; 50MP camera; 6GB RAM,78.5
+P007,Redmi Note-Series 5G 8GB/128GB,Redmi,Mobiles,17999,4.3,14300,Popular mid-range 5G phone with strong battery life for gaming and daily use.,5G; AMOLED display; 5000mAh battery; 108MP camera; 8GB RAM,85.2
+P008,Realme Narzo Gaming 5G 8GB/128GB,Realme,Mobiles,15999,4.1,7480,Performance-focused phone tuned for mobile gaming with a high refresh rate.,5G; 120Hz display; gaming mode; 5000mAh battery; 8GB RAM,78.5
+P009,OnePlus Nord CE 5G 12GB/256GB,OnePlus,Mobiles,26999,4.4,4950,Smooth performance and fast charging for gaming and everyday multitasking.,5G; 120Hz AMOLED display; 80W fast charging; 64MP camera; 12GB RAM,77.7
+P010,Poco X-Series Performance 5G 8GB/256GB,Poco,Mobiles,21999,4.4,6120,Gaming-oriented phone with a fast processor and liquid cooling for long sessions.,5G; 120Hz display; gaming mode; 67W fast charging; 8GB RAM,79.4
+P011,Nokia Basic Feature Phone Dual SIM,Nokia,Mobiles,2499,3.8,3560,Simple feature phone with long battery life for calling and emergencies.,Dual SIM; long battery life; FM radio; keypad,70.3
+P012,Dell Everyday 15 Laptop i5 16GB/512GB,Dell,Laptops,58990,4.2,3870,"Reliable everyday laptop for study, office work and browsing.",Intel Core i5; 16GB RAM; 512GB SSD; 15.6-inch display; backlit keyboard,74.2
+P013,HP Pavilion-Class Slim Laptop i5 8GB/512GB,HP,Laptops,52990,4.1,2960,Slim and light laptop for students and daily use with good battery life.,Intel Core i5; 8GB RAM; 512GB SSD; lightweight; fast charging,71.3
+P014,Lenovo IdeaPad Slim 3 Ryzen 5 8GB/512GB,Lenovo,Laptops,44990,4.2,5210,"Value laptop for office work, online classes and entertainment.",Ryzen 5; 8GB RAM; 512GB SSD; 15.6-inch display; lightweight,76.5
+P015,ASUS Vivobook 15 i3 8GB/512GB,ASUS,Laptops,37990,4.0,4410,Entry-level laptop for students and daily browsing.,Intel Core i3; 8GB RAM; 512GB SSD; 15.6-inch display; numeric keypad,73.6
+P016,Acer Aspire 5 i5 16GB/512GB,Acer,Laptops,54990,4.1,2750,Well-rounded laptop for work and study with a sturdy build.,Intel Core i5; 16GB RAM; 512GB SSD; metal body; backlit keyboard,70.7
+P017,ASUS TUF Gaming Laptop Ryzen 7 16GB RTX,ASUS,Laptops,82990,4.4,3180,Durable gaming laptop with a dedicated graphics card and high refresh rate display.,Ryzen 7; 16GB RAM; RTX graphics; 144Hz display; gaming cooling,74.2
+P018,Lenovo LOQ Gaming Laptop i5 16GB RTX,Lenovo,Laptops,76990,4.3,2480,Entry gaming laptop for gaming and creative work with strong cooling.,Intel Core i5; 16GB RAM; RTX graphics; 144Hz display; gaming cooling,71.5
+P019,HP Victus-Class Gaming Laptop Ryzen 5 8GB,HP,Laptops,64990,4.2,2210,Affordable gaming laptop for gaming and daily use with a clean design.,Ryzen 5; 8GB RAM; GTX graphics; 144Hz display; backlit keyboard,69.8
+P020,MSI Thin Gaming Laptop i7 16GB RTX,MSI,Laptops,99990,4.3,1320,Thin gaming laptop with powerful graphics for gaming and video editing.,Intel Core i7; 16GB RAM; RTX graphics; 165Hz display; gaming cooling,66.6
+P021,Dell Business Latitude-Class i5 16GB,Dell,Laptops,89990,4.5,1640,Business laptop with strong security and durable build for office work.,Intel Core i5; 16GB RAM; fingerprint reader; durable build; long battery life,69.9
+P022,Lenovo ThinkPad-Class Ultraportable i7 16GB,Lenovo,Laptops,109990,4.6,980,Premium ultraportable for professionals who travel and work all day.,Intel Core i7; 16GB RAM; 1TB SSD; lightweight; long battery life,66.6
+P023,boAt Wireless Earbuds with Mic,boAt,Electronics,1499,4.0,48200,"Bluetooth earbuds for music, calls and workouts with a charging case.",Bluetooth; charging case; water resistant; low latency gaming mode,92.3
+P024,Sony Over-Ear Wireless Headphones,Sony,Electronics,9990,4.5,6340,Comfortable wireless headphones with noise cancellation for music and travel.,Bluetooth; noise cancellation; 30-hour battery; foldable design,80.4
+P025,JBL Portable Bluetooth Speaker,JBL,Electronics,3999,4.4,12880,Portable speaker with deep bass for parties and outdoor use.,Bluetooth; waterproof; 12-hour battery; deep bass,85.2
+P026,Samsung 43-inch 4K Smart TV,Samsung,Electronics,32990,4.3,9210,"4K smart TV for movies, streaming and gaming with built-in apps.",4K resolution; smart TV; HDMI ports; voice assistant,81.8
+P027,Motorola 40-inch Full HD Smart TV,Motorola,Electronics,17999,4.1,5640,Full HD smart TV for daily streaming and family viewing.,Full HD; smart TV; HDMI ports; voice assistant,76.3
+P028,Samsung Galaxy Tab-Class 10.5-inch Tablet,Samsung,Electronics,21999,4.3,2870,"Tablet for study, reading, streaming and light gaming.",10.5-inch display; 8000mAh battery; stylus support; Wi-Fi,72.6
+P029,Noise Smartwatch with Fitness Tracking,Noise,Electronics,2499,3.9,21400,"Smartwatch for fitness tracking, notifications and calls.",heart rate monitor; Bluetooth calling; sleep tracking; water resistant,85.1
+P030,Logitech Wireless Mouse,Logitech,Electronics,799,4.5,31200,Compact wireless mouse for office work and daily use.,wireless; long battery life; ergonomic design; USB receiver,92.9
+P031,Anker 20000mAh Power Bank,Anker,Electronics,2299,4.4,15400,High-capacity power bank for travel and daily use with fast charging.,20000mAh; fast charging; dual USB ports; compact,86.6
+P032,TP-Link Dual Band Wi-Fi Router,TP-Link,Electronics,2199,4.2,18600,"Dual band router for home streaming, work from home and gaming.",dual band; high speed; parental controls; easy setup,86.5
+P033,Canon Beginner Mirrorless Camera Kit,Canon,Electronics,54990,4.5,1180,Beginner mirrorless camera for photography and vlogging with a kit lens.,24MP sensor; 4K video; Wi-Fi; flip screen,67.3
+P034,Allen Solly Formal Cotton Shirt,Allen Solly,Men's Fashion,1599,4.2,4120,Slim fit cotton shirt for office and formal occasions.,cotton; slim fit; full sleeve; formal wear,74.7
+P035,Peter England Slim Fit Trousers,Peter England,Men's Fashion,1799,4.1,3380,Comfortable formal trousers for office wear.,stretch fabric; slim fit; formal wear; machine washable,72.3
+P036,Levis Regular Fit Denim Jeans,Levis,Men's Fashion,2999,4.4,9640,Classic denim jeans with a durable fit for everyday casual wear.,denim; regular fit; casual wear; durable,82.9
+P037,US Polo Cotton Polo T-Shirt,US Polo,Men's Fashion,1299,4.2,6720,Soft cotton polo for casual and daily wear.,cotton; regular fit; casual wear; breathable,78.5
+P038,Van Heusen Slim Fit Blazer,Van Heusen,Men's Fashion,5999,4.3,1260,"Tailored blazer for office, interviews and events.",slim fit; formal wear; polyester blend; two buttons,66.2
+P039,Raymond Wool Blend Formal Trousers,Raymond,Men's Fashion,2499,4.4,2310,Premium wool blend trousers for formal wear.,wool blend; formal wear; regular fit; wrinkle resistant,71.7
+P040,Jockey Cotton Innerwear Pack of 3,Jockey,Men's Fashion,899,4.5,17800,Soft cotton innerwear for all-day comfort.,cotton; pack of 3; breathable; daily wear,88.5
+P041,Puma Sports Round Neck T-Shirt,Puma,Men's Fashion,1199,4.1,7340,Quick-dry t-shirt for gym and running workouts.,quick dry; sports wear; breathable; regular fit,78.4
+P042,Roadster Casual Check Shirt,Roadster,Men's Fashion,899,3.9,12600,Budget casual check shirt for weekends and outings.,cotton blend; casual wear; regular fit; full sleeve,81.0
+P043,Wrogn Slim Fit Hooded Sweatshirt,Wrogn,Men's Fashion,1999,4.0,3110,Warm hoodie for winter and casual wear.,fleece; hooded; casual wear; winter wear,70.9
+P044,Flying Machine Stretch Chinos,Flying Machine,Men's Fashion,1499,3.8,2080,Casual chinos for daily wear and weekend trips.,stretch fabric; slim fit; casual wear; cotton blend,66.1
+P045,Biba Printed Cotton Kurta,Biba,Women's Fashion,1499,4.3,5260,Comfortable printed kurta for daily wear and festive occasions.,cotton; printed; festive wear; daily wear,77.4
+P046,W Straight Fit Kurta Set,W,Women's Fashion,2299,4.2,3410,Elegant kurta set for office and festive wear.,kurta set; festive wear; office wear; rayon blend,73.2
+P047,Libas Anarkali Kurta with Dupatta,Libas,Women's Fashion,1899,4.1,2870,Flowy anarkali kurta with dupatta for weddings and festivals.,anarkali; dupatta included; festive wear; georgette,71.0
+P048,Aurelia Everyday Cotton Kurti,Aurelia,Women's Fashion,999,4.2,7120,Budget cotton kurti for everyday college and office wear.,cotton; daily wear; machine washable; regular fit,78.9
+P049,Global Desi Summer Maxi Dress,Global Desi,Women's Fashion,1799,4.0,2230,Light maxi dress for summer outings and casual wear.,maxi dress; casual wear; breathable; summer wear,68.3
+P050,Soch Silk Blend Saree,Soch,Women's Fashion,3499,4.3,1840,Elegant silk blend saree for weddings and festive occasions.,silk blend; festive wear; blouse piece included; zari border,69.2
+P051,Vero Moda Casual Top,Vero Moda,Women's Fashion,1299,4.0,2650,Trendy casual top for college and outings.,casual wear; regular fit; polyester blend; round neck,69.6
+P052,ONLY Slim Fit Denim Jeans,ONLY,Women's Fashion,2199,4.1,3980,Stretch denim jeans for casual wear and daily use.,denim; stretch fabric; casual wear; slim fit,73.6
+P053,Zivame Everyday Cotton Innerwear Set,Zivame,Women's Fashion,1099,4.4,8250,Soft and comfortable everyday innerwear.,cotton; daily wear; breathable; wire free,81.7
+P054,Max Women Cotton Palazzo Pants,Max,Women's Fashion,699,3.9,6210,Comfortable palazzo pants for daily and casual wear.,cotton; elastic waist; casual wear; machine washable,75.5
+P055,Pantaloons Formal Blazer for Women,Pantaloons,Women's Fashion,3299,3.7,940,Formal blazer for office and interview wear.,formal wear; polyester blend; slim fit; two buttons,59.1
+P056,Nike Running Shoes Lightweight,Nike,Footwear,5499,4.5,6180,Cushioned running shoes for daily runs and gym workouts.,lightweight; cushioned sole; breathable mesh; running,80.2
+P057,Adidas Everyday Sports Shoes,Adidas,Footwear,3999,4.3,8740,"Comfortable sports shoes for running, gym and daily use.",breathable mesh; cushioned sole; lightweight; running,81.3
+P058,Puma Casual Sneakers,Puma,Footwear,2999,4.2,9320,Stylish sneakers for casual and daily wear.,sneakers; casual wear; comfortable sole; lace-up,81.0
+P059,Bata Formal Leather Shoes,Bata,Footwear,2199,4.0,5410,Classic formal shoes for office and events.,leather; formal wear; cushioned insole; lace-up,75.2
+P060,Woodland Outdoor Trekking Boots,Woodland,Footwear,4599,4.4,3260,Rugged boots for trekking and outdoor adventures.,water resistant; durable sole; trekking; ankle support,74.4
+P061,Skechers Walking Shoes Memory Foam,Skechers,Footwear,4299,4.5,4120,Extra comfortable walking shoes with memory foam for all-day wear.,memory foam; lightweight; walking; cushioned sole,77.1
+P062,Crocs Classic Clogs,Crocs,Footwear,2495,4.3,7650,"Light and easy clogs for home, travel and casual wear.",lightweight; water friendly; casual wear; slip on,80.3
+P063,Campus Budget Running Shoes,Campus,Footwear,1299,3.9,14200,Budget running shoes for college and daily workouts.,lightweight; running; breathable mesh; budget friendly,81.9
+P064,Red Tape Casual Leather Sneakers,Red Tape,Footwear,2799,4.1,2890,Leather sneakers for casual and semi-formal wear.,leather; sneakers; casual wear; cushioned insole,71.1
+P065,Sparx Daily Wear Sandals,Sparx,Footwear,799,3.8,11800,Comfortable sandals for daily and casual wear.,lightweight; velcro strap; casual wear; budget friendly,79.7
+P066,Liberty Women Comfort Heels,Liberty,Footwear,1499,3.6,1320,Block heels for office and party wear.,block heel; formal wear; cushioned insole; synthetic upper,61.0
+P067,Prestige Aluminium Pressure Cooker 5L,Prestige,Home and Kitchen,1699,4.4,19800,Durable pressure cooker for everyday home cooking.,5 litre; induction base; safety valve; aluminium,88.5
+P068,Philips Digital Air Fryer 4.1L,Philips,Home and Kitchen,7499,4.5,8240,"Air fryer for healthy cooking with less oil, great for daily family meals.",4.1 litre; digital panel; rapid air technology; auto shut off,82.5
+P069,Bajaj Mixer Grinder 750W,Bajaj,Home and Kitchen,3299,4.2,14600,Powerful mixer grinder for daily Indian kitchen use.,750W; 3 jars; stainless steel blades; overload protection,84.6
+P070,Havells Energy Saving Ceiling Fan,Havells,Home and Kitchen,3799,4.3,6880,Energy saving ceiling fan with silent operation for bedrooms.,energy saving; silent operation; high air delivery; 5 star rated,79.5
+P071,Milton Insulated Steel Water Bottle 1L,Milton,Home and Kitchen,799,4.4,22700,"Insulated bottle that keeps drinks hot or cold for hours, for office, gym and travel.",1 litre; stainless steel; leak proof; hot and cold,89.6
+P072,Pigeon Induction Cooktop 1800W,Pigeon,Home and Kitchen,1999,4.1,17300,Induction cooktop for quick everyday cooking.,1800W; push button control; auto shut off; preset menus,85.1
+P073,Borosil Glass Storage Container Set,Borosil,Home and Kitchen,1499,4.5,5420,Microwave safe glass containers for storing food.,borosilicate glass; microwave safe; airtight lid; set of 3,79.2
+P074,Kent RO Water Purifier 8L,Kent,Home and Kitchen,15999,4.3,7610,RO water purifier with mineral retention for safe drinking water at home.,8 litre; RO plus UV; mineral retention; wall mountable,80.3
+P075,Butterfly Glass Top Gas Stove 3 Burner,Butterfly,Home and Kitchen,4299,4.0,4150,Three burner gas stove for large family cooking.,3 burner; glass top; brass burners; auto ignition,73.1
+P076,Wonderchef Nonstick Cookware Set of 5,Wonderchef,Home and Kitchen,2999,3.9,3320,Nonstick cookware set for everyday cooking with less oil.,nonstick; set of 5; induction base; cool touch handles,70.6
+P077,Eureka Forbes Compact Vacuum Cleaner,Eureka Forbes,Home and Kitchen,5999,3.8,2540,Compact vacuum cleaner for quick home cleaning.,1200W; washable filter; compact; multiple attachments,67.7
+P078,Lakme Absolute Matte Lipstick,Lakme,Beauty,599,4.2,16400,Long lasting matte lipstick for daily and party makeup.,matte finish; long lasting; rich color; lightweight,85.5
+P079,Maybelline Lash Sensational Mascara,Maybelline,Beauty,549,4.3,11200,Volumizing mascara for fuller looking lashes.,volumizing; smudge proof; easy application; makeup,83.3
+P080,Nivea Soft Moisturising Cream,Nivea,Beauty,349,4.5,24800,"Light moisturising cream for face, hands and body for daily skincare.",moisturising; non greasy; all skin types; skincare,91.1
+P081,Himalaya Neem Face Wash,Himalaya,Beauty,199,4.3,31600,Herbal face wash for oily and acne prone skin for daily use.,neem; oil control; herbal; skincare,91.4
+P082,Dove Daily Shine Shampoo,Dove,Beauty,449,4.2,14900,Nourishing shampoo for smooth and shiny hair.,nourishing; smooth hair; daily use; haircare,84.7
+P083,Mamaearth Vitamin C Face Serum,Mamaearth,Beauty,599,4.1,9560,Brightening serum for glowing skin with daily use.,vitamin C; brightening; lightweight; skincare,80.4
+P084,L'Oreal Hyaluronic Acid Moisturiser,L'Oreal,Beauty,899,4.4,6210,Hydrating moisturiser for plump and smooth skin.,hyaluronic acid; hydrating; all skin types; skincare,79.5
+P085,Neutrogena Oil-Free Sunscreen SPF 50,Neutrogena,Beauty,649,4.4,8470,Lightweight oil free sunscreen for daily protection.,SPF 50; oil free; non sticky; sun protection,81.9
+P086,Philips Cordless Beard Trimmer,Philips,Beauty,1599,4.4,13200,Cordless trimmer for precise beard styling and grooming.,cordless; adjustable length; fast charging; grooming,85.4
+P087,WOW Apple Cider Vinegar Shampoo,WOW,Beauty,499,3.9,12100,Clarifying shampoo for oily scalp and everyday haircare.,apple cider vinegar; clarifying; sulphate free; haircare,80.7
+P088,Biotique Bio Almond Body Lotion,Biotique,Beauty,299,3.7,2840,Herbal body lotion for dry skin and daily moisturising.,herbal; almond oil; moisturising; skincare,67.8
+P089,Python Programming Made Simple,Campus Press,Books,449,4.4,3120,Beginner friendly guide to Python programming with exercises for students.,programming; beginner friendly; exercises; python,74.1
+P090,Data Science for Beginners,Learnwell Publications,Books,549,4.3,2480,"Introduction to data science using NumPy, Pandas and Matplotlib for students.",data science; beginner friendly; case studies; python,71.5
+P091,Machine Learning Basics Workbook,Campus Press,Books,599,4.5,1960,Step by step machine learning workbook with scikit-learn examples for students.,machine learning; workbook; exercises; python,71.3
+P092,Statistics Made Easy,Brightpath Books,Books,399,4.2,2210,Simple explanations of statistics and probability for engineering students.,statistics; beginner friendly; solved examples; study guide,69.8
+P093,The Startup Playbook,Maple Leaf Publishing,Books,499,4.1,3540,Practical business guide for first time founders.,business; case studies; practical tips; entrepreneurship,72.7
+P094,Mindful Mornings,Orbit Reads,Books,299,4.0,4870,"Short daily practices for focus and calm, ideal for gifting.",self help; daily practices; short chapters; gift idea,74.4
+P095,Indian History Simplified,Brightpath Books,Books,475,4.3,2760,Easy overview of Indian history for competitive exam preparation.,history; exam preparation; timelines; study guide,72.3
+P096,Mystery at Lakeview,Orbit Reads,Books,275,4.2,6310,Fast paced mystery novel for weekend reading.,fiction; mystery; paperback; page turner,78.0
+P097,Cooking at Home Cookbook,Maple Leaf Publishing,Books,650,4.4,3980,Easy everyday recipes for busy families with color photos.,recipes; color photos; hardcover; gift idea,76.0
+P098,Personal Finance Basics,Learnwell Publications,Books,350,4.0,2540,"Beginner guide to budgeting, saving and investing for young adults.",finance; beginner friendly; practical tips; budgeting,69.3
+P099,Children's Science Stories,Orbit Reads,Books,325,3.8,1210,"Illustrated science stories for young readers, ideal for gifting.",children; illustrated; science; gift idea,61.9
+P100,Yonex Graphite Badminton Racquet,Yonex,Sports and Fitness,2199,4.5,6240,Lightweight graphite racquet for club and training level badminton.,graphite; lightweight; badminton; head cover included,80.3
+P101,Cosco Size 5 Training Football,Cosco,Sports and Fitness,599,4.0,5110,Durable football for training and match practice.,size 5; durable; football; machine stitched,74.8
+P102,SG English Willow Cricket Bat,SG,Sports and Fitness,6499,4.4,1890,English willow bat for serious cricket players and practice.,English willow; cricket; grip included; balanced pickup,70.2
+P103,Boldfit Anti-Slip Yoga Mat 6mm,Boldfit,Sports and Fitness,699,4.3,18400,"Cushioned yoga mat for yoga, stretching and home workouts.",6mm; anti-slip; yoga; carry strap,87.2
+P104,Lifelong Adjustable Dumbbell Set 20kg,Lifelong,Sports and Fitness,2999,4.1,7620,Adjustable dumbbell set for home workouts and strength training.,adjustable; strength training; home workout; anti-rust,78.7
+P105,Strauss Resistance Bands Set,Strauss,Sports and Fitness,499,4.2,9340,"Resistance bands for home workouts, stretching and rehab.",set of 5; home workout; stretching; carry pouch,81.1
+P106,Adidas Gym Duffle Bag,Adidas,Sports and Fitness,1899,4.3,4360,"Spacious duffle bag for gym, travel and sports kit.",spacious; shoe compartment; water resistant; gym,75.9
+P107,Cosco Adjustable Skipping Rope,Cosco,Sports and Fitness,249,4.1,12800,Adjustable skipping rope for cardio and fitness training.,adjustable; cardio; anti-slip handle; lightweight,82.7
+P108,Nivia Insulated Sports Bottle 750ml,Nivia,Sports and Fitness,449,4.0,3920,"Leak proof sports bottle for gym, running and cycling.",750ml; leak proof; gym; BPA free,72.7
+P109,Powermax Home Fitness Treadmill,Powermax,Sports and Fitness,28999,4.0,1480,Motorised folding treadmill for home cardio and weight loss.,motorised; foldable; home workout; LCD display,65.1
+P110,Kore Foam Roller for Recovery,Kore,Sports and Fitness,899,3.7,2210,Foam roller for muscle recovery after workouts and stretching.,foam roller; muscle recovery; stretching; lightweight,65.8
